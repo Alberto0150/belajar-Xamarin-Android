@@ -1,0 +1,14 @@
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\bin\Debug\netstandard2.0\MobileAppXamarin.deps.json
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\bin\Debug\netstandard2.0\MobileAppXamarin.dll
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\bin\Debug\netstandard2.0\ref\MobileAppXamarin.dll
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\bin\Debug\netstandard2.0\MobileAppXamarin.pdb
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.csprojAssemblyReference.cache
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.AssemblyInfoInputs.cache
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.AssemblyInfo.cs
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.csproj.CoreCompileInputs.cache
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.dll
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\ref\MobileAppXamarin.dll
+D:\Coding VSC19\MobileAppXamarin\MobileAppXamarin\obj\Debug\netstandard2.0\MobileAppXamarin.pdb
